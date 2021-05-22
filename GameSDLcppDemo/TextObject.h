@@ -1,4 +1,3 @@
-
 #ifndef TEXT_OBJECT_H
 #define TEXT_OBJECT_H
 
